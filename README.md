@@ -20,6 +20,6 @@ Links:
 - [Presentation Video](https://youtu.be/enJOn6ifCzU)
 
 - Developer Notebooks
-    - [Data Science Analysis](./developer_notebook/Grab_Data_Science.ipynb)
+    - [Data Science Analysis](./developer_notebooks/Grab_Data_Science.ipynb)
 
-    - [ML Modeling](./developer_notebook/Grab_Traffic_Management_ML_Models.ipynb)
+    - [ML Modeling](./developer_notebooks/Grab_Traffic_Management_ML_Models.ipynb)
