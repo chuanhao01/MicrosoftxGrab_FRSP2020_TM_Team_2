@@ -13,13 +13,13 @@ Below are the online links to our notebooks and slides
 
 Links:
 
-- [Main Notebook](https://colab.research.google.com/drive/1lPdywN2Q8lwwelPrj-Qz48tsCLqhiKGg?usp=sharing)
+- [Main Notebook](./GRAB_TrafficManagement.ipynb)
 
-- [Presentation Slides](https://docs.google.com/presentation/d/1JvdSDkM0P6degp9I3CvvUtEYkvPxlukfniawEN7WmhY/edit?usp=sharing)
+- [Presentation Slides](./Grab_x_Microsoft_FSP_2020_Team_2_(Traffic_Management).pdf)
 
 - [Presentation Video](https://youtu.be/enJOn6ifCzU)
 
 - Developer Notebooks
-    - [Data Science Analysis](https://colab.research.google.com/drive/1oYi1T15j_-Sj2OUZaj4FxgDxU5xcBdC7?usp=sharing)
+    - [Data Science Analysis](./developer_notebook/Grab_Data_Science.ipynb)
 
-    - [ML Modeling](https://colab.research.google.com/drive/1QlFnIikwLkzbpO9Wk6Ro8ikgLwykQFGs?usp=sharing)
+    - [ML Modeling](./developer_notebook/Grab_Traffic_Management_ML_Models.ipynb)
